@@ -1,0 +1,9 @@
+streamlit
+pandas
+numpy
+scikit-learn
+requests
+beautifulsoup4
+lxml
+sentence-transformers
+torch
